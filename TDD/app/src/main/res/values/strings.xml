@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TDD_Demo</string>
+    <string name="text_hello_word">Hello World</string>
+</resources>
