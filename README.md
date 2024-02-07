@@ -21,5 +21,3 @@ Android application with CRUD functionalities, including CREATE, INSERT, UPDATE,
 ## Contributing
 
 If you'd like to contribute, follow the guidelines in the respective branch's README file. Contributions, bug reports, and feature requests are welcome!
-
-Explore each branch independently, and thank you for your interest in our Android projects!
