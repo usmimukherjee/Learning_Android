@@ -18,6 +18,10 @@ Android application for JUNIT testing and Espresso Testing, emphasizing Test-Dri
 ### 5. [Firebase_CRUD ](https://github.com/usmimukherjee/Learning_Android_Dump/tree/main/Firebase_CRUD)
 Android application with CRUD functionalities, including CREATE, INSERT, UPDATE, DELETE, VIEW, and SEARCH operations.
 
+
+### 6. [Google Maps Integration](https://github.com/usmimukherjee/Learning_Android/tree/main/GoogleMaps_Demo)
+Android application integrating different functionalities using the google maps API.
+
 ## Contributing
 
 If you'd like to contribute, follow the guidelines in the respective branch's README file. Contributions, bug reports, and feature requests are welcome!
