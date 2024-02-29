@@ -42,6 +42,12 @@ public class EmployeeAdapter extends FirebaseRecyclerAdapter<Employee, EmployeeA
 
     //------------------------------------------end-------------------------------------------
 
+    /**
+     * @param parent   The ViewGroup into which the new View will be added after it is bound to
+     *                 an adapter position.
+     * @param viewType The view type of the new View.
+     * @return
+     */
     // TWO ---------- the onCreateViewHolder method - for inflating the correct view
     @NonNull
     @Override
@@ -77,6 +83,12 @@ public class EmployeeAdapter extends FirebaseRecyclerAdapter<Employee, EmployeeA
     }
     //------------------------------------------end-------------------------------------------
 
+    /**
+     *
+     * @param holder
+     * @param position
+     * @param employee the model object containing the data that should be used to populate the view.
+     */
 
     //FOUR ---------- the onBindViewHolder method - bind the view to the db and attach to intent
     @Override

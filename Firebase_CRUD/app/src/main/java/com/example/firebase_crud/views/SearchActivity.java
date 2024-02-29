@@ -59,6 +59,11 @@ public class SearchActivity extends AppCompatActivity {
     }
 
     // Set a click listener for the search button to initiate employee search.
+
+    /**
+     *
+     */
+
     private void setListeners() {
         searchBtn.setOnClickListener(view -> {
             // Get the search query from the EditText.
@@ -72,6 +77,9 @@ public class SearchActivity extends AppCompatActivity {
         });
     }
 
+    /**
+     * @param searchByNameString
+     */
     // Retrieve employee information from Firebase Database based on the provided name.
     private void getEmployee(String searchByNameString) {
         // Create a query to find the employee by name in the Firebase Database.

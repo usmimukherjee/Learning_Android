@@ -2,6 +2,7 @@ package com.example.firebase_crud.model;
 
 import java.io.Serializable;
 
+
 //needs to be serializable to pass on the data from one page to another
 public class Employee implements Serializable {
 
@@ -13,6 +14,7 @@ public class Employee implements Serializable {
     //empty constructor for firebase
     public Employee() {
     }
+
 
 
     //getters and setters for all the fields

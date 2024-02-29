@@ -108,6 +108,7 @@ public class ModifyEmployeeActivity extends AppCompatActivity {
         map.put("department", departmentET.getText().toString());
         map.put("position", positionET.getText().toString());
 
+
         // Push data to Firebase Realtime Database
         FirebaseDatabase.getInstance(com.example.firebase_crud.util.FirebaseConstants.FIREBASE_URL)
                 .getReference()
