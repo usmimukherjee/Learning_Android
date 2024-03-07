@@ -23,7 +23,7 @@ Android application with CRUD functionalities, including CREATE, INSERT, UPDATE,
 Android application integrating different functionalities using the google maps API.
 
 ### 7. [Paypal Integration](https://github.com/usmimukherjee/Learning_Android/tree/main/PayPal_Integration)
-Android application integrating different functionalities using the google maps API.
+Android application integrating different functionalities using the PayPal API.
 
 ## Contributing
 
