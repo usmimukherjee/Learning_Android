@@ -25,8 +25,6 @@ import com.paypal.android.sdk.payments.PayPalService;
 import com.paypal.android.sdk.payments.PaymentActivity;
 import com.paypal.android.sdk.payments.PaymentConfirmation;
 
-import com.example.paypalintegrationdemo.util.PaypalManager;
-
 public class MainActivity extends AppCompatActivity {
 
 
@@ -41,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
     private Button payNowBtn;
     private TextView paymentStatusTV;
 
-//    private static final String PAYPAL_CLIENT_ID = "AXueFBuceTIerT_9lpLQzoYDNj6NcHfBy1RlDqYaoF04KMKoI-tTmi65mkRETaUE8IWXq81YKupPCMQA";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
