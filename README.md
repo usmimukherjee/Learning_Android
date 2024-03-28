@@ -34,10 +34,10 @@ Chat application utilizing Firebase Realtime Database for real-time communicatio
 ## 10. [Chat Application - Individual Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_Individual_Chat)
 Chat application utilizing Firebase Realtime Database for real-time communication implementing individual chat.
 
-## 13. [Chat Application - Group Chat and Individual Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_Group_and_Individual_Chat)
+## 11. [Chat Application - Group Chat and Individual Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_Group_and_Individual_Chat)
  Chat application utilizing Firebase Realtime Database for real-time communication.
 
-## 14. [Push Notifications](https://github.com/usmimukherjee/Learning_Android/tree/main/Push_Notifications)
+## 12. [Push Notifications](https://github.com/usmimukherjee/Learning_Android/tree/main/Push_Notifications)
  Implementation of push notifications in an Android application using Firebase Cloud Messaging.
 
 
