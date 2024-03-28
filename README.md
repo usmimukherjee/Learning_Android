@@ -16,7 +16,7 @@ Android application covering the basics of Firebase, including how to connect wi
 Android application for JUNIT testing and Espresso Testing, emphasizing Test-Driven Development (TDD) practices.
 
 ### 5. [Firebase_CRUD ](https://github.com/usmimukherjee/Learning_Android_Dump/tree/main/Firebase_CRUD)
-Android application with CRUD functionalities, including CREATE, INSERT, UPDATE, DELETE, VIEW, and SEARCH operations.
+Android application with CRUD functionalities, including CREATE, INSERT, UPDATE, DELETE.
 
 
 ### 6. [Google Maps Integration](https://github.com/usmimukherjee/Learning_Android/tree/main/GoogleMaps_Demo)
