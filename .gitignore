@@ -83,6 +83,10 @@ PayPal_Integration/captures
 PayPal_Integration/.externalNativeBuild
 PayPal_Integration/.cxx
 PayPal_Integration/local.properties
+<<<<<<< HEAD
+=======
+E:\StudioProjects\Push_Notifications\app\src\main\assets\key.json
+>>>>>>> origin/main
 
 ChatApplication_Individual_Chat/.git
 ChatApplication_Individual_Chat/gradle
@@ -141,6 +145,24 @@ Design_Pattern_Basics/.externalNativeBuild
 Design_Pattern_Basics/.cxx
 Design_Pattern_Basics/local.properties
 
+<<<<<<< HEAD
+=======
+Design_Pattern_Basics/.git
+Design_Pattern_Basics/gradle
+Design_Pattern_Basics/.idea
+Design_Pattern_Basics/.gitignore
+Design_Pattern_Basics/*.iml
+Design_Pattern_Basics/.gradle
+Design_Pattern_Basics/local.properties
+Design_Pattern_Basics/.DS_Store
+Design_Pattern_Basics/build
+Design_Pattern_Basics/captures
+Design_Pattern_Basics/.externalNativeBuild
+Design_Pattern_Basics/.cxx
+Design_Pattern_Basics/local.properties
+
+
+>>>>>>> origin/main
 Fragment_Demo/.git
 Fragment_Demo/gradle
 Fragment_Demo/.idea
@@ -167,5 +189,9 @@ Push_Notifications/build
 Push_Notifications/captures
 Push_Notifications/.externalNativeBuild
 Push_Notifications/.cxx
+<<<<<<< HEAD
 Push_Notifications/local.properties
 Push_Notifications/app/src/main/assets/key.json
+=======
+Push_Notifications/local.properties
+>>>>>>> origin/main
