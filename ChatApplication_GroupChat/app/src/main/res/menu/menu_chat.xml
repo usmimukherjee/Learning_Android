@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--menu are elements that can be added to the app bar, here is the logout button-->
+<!--for adding an icon, right click on drawable, choose vector asset, select the icon, add into the application-->
+<!--show as action -> how you want to display the logout button-->
+    <item
+        android:id="@+id/logoutItem"
+        android:icon="@drawable/ic_baseline_arrow_forward_24"
+        android:tint="@color/white"
+        android:title="@string/logout"
+        app:showAsAction="always" />
+</menu>

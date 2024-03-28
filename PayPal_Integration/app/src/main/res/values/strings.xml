@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PayPal</string>
+    <string name="enter_amount_to_be_paid">Enter Donation</string>
+    <string name="make_payment">Make Payment</string>
+</resources>

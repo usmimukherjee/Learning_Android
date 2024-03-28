@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1941529546",
+    "firebase_url": "https://chatapplication-fda11-default-rtdb.firebaseio.com",
+    "project_id": "chatapplication-fda11",
+    "storage_bucket": "chatapplication-fda11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1941529546:android:21be391c3399f79161a533",
+        "android_client_info": {
+          "package_name": "com.dhrumilshah98.csci3130_chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATr00PeB_AzjudyOaIyFNBLyrBmlL6EcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1941529546:android:b5bf03b61a1150c561a533",
+        "android_client_info": {
+          "package_name": "com.example.tutorial2_firebasebasics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATr00PeB_AzjudyOaIyFNBLyrBmlL6EcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1941529546:android:51164318df379da161a533",
+        "android_client_info": {
+          "package_name": "com.usmi.csci3130_chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATr00PeB_AzjudyOaIyFNBLyrBmlL6EcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1941529546-qhoe78dcnfrkdi9m5kd3eec3f30234ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

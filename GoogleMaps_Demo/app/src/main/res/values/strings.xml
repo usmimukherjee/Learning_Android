@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapsDemo23</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="title_activity_maps4">MapsActivity4</string>
+    <string name="title_activity_near_by_search">NearBySearch</string>
+    <string name="title_activity_maps_main">MapsMainActivity</string>
+</resources>

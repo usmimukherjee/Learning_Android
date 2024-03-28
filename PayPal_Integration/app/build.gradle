@@ -1,0 +1,58 @@
+plugins {
+    id 'com.android.application'
+}
+//accessing file
+def credentialsPropertiesFile = rootProject.file("local.properties")
+// properties object to access key value
+def credentialsProperties = new Properties()
+//input the file
+credentialsProperties.load(new FileInputStream(credentialsPropertiesFile))
+
+android {
+    namespace 'com.example.paypalintegrationdemo'
+    compileSdk 34
+    buildFeatures {
+        buildConfig = true
+    }
+
+    defaultConfig {
+        applicationId "com.example.paypalintegrationdemo"
+        minSdk 30
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        //accessing variable -  type, name of variable, concat with string format (adding "")
+        buildConfigField "String", "PAYPAL_CLIENT_ID", ("\"".concat(credentialsProperties["PAYPAL_CLIENT_ID"]).concat("\""))
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    //app
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+
+    //paypal dependencies
+    implementation 'com.paypal.sdk:paypal-android-sdk:2.16.0'
+
+    //junit
+    testImplementation 'junit:junit:4.13.2'
+
+    //espresso
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+}

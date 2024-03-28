@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "577736519605",
+    "firebase_url": "https://fir-crud-a84eb-default-rtdb.firebaseio.com",
+    "project_id": "fir-crud-a84eb",
+    "storage_bucket": "fir-crud-a84eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577736519605:android:857f1e4dc6364b6addf3fc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhV8ls8_HSNabQMGYTT9LORBtZBKzcnuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

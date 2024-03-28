@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">csci3130_chat_application</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_employee_register">New Employee? Register</string>
+    <string name="register">Register</string>
+    <string name="existing_employee_login">Existing Employee? Login</string>
+    <string name="user_registered_successfully">User registered successfully</string>
+    <string name="user_registration_failed">User registration failed</string>
+    <string name="type_your_message">Type your message...</string>
+    <string name="send">Send</string>
+    <string name="failed_to_send_message">Failed to send the message.</string>
+    <string name="logout">Logout</string>
+</resources>
