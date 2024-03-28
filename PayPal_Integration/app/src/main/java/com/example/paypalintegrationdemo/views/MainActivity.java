@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
         //configuring paypal i.e defining we're using SANDBOX Environment and setting the paypal client id
         payPalConfig = new PayPalConfiguration()
                 .environment(PayPalConfiguration.ENVIRONMENT_SANDBOX)
-                .clientId(BuildConfig.PAYPAL_CLIENT_ID);
+                .clientId(PAYPAL_CLIENT_ID);
     }
 
     private void initActivityLauncher() {

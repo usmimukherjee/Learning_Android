@@ -24,7 +24,7 @@
             android:value="AIzaSyB3PKgHDaNAGYWkc75qi9DOkX3ZLm25_t8" />
 
         <activity
-            android:name=".views.SearchDistance"
+            android:name=".views.CurrentLocation"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
