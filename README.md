@@ -25,6 +25,23 @@ Android application integrating different functionalities using the google maps 
 ### 7. [Paypal Integration](https://github.com/usmimukherjee/Learning_Android/tree/main/PayPal_Integration)
 Android application integrating different functionalities using the PayPal API.
 
+### 8. [Fragments Demo](https://github.com/usmimukherjee/Learning_Android/tree/main/)
+Android application implementing fragments in a layout, showcasing the use of fragments in the user interface.
+
+## 9. [Chat Application - Group Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_GroupChat)
+Chat application utilizing Firebase Realtime Database for real-time communication implementing group chat.
+
+## 10. [Chat Application - Individual Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_Individual_Chat)
+Chat application utilizing Firebase Realtime Database for real-time communication implementing individual chat.
+
+## 13. [Chat Application - Group Chat and Individual Chat](https://github.com/usmimukherjee/Learning_Android/tree/main/ChatApplication_Group_and_Individual_Chat)
+ Chat application utilizing Firebase Realtime Database for real-time communication.
+
+## 14. [Push Notifications](https://github.com/usmimukherjee/Learning_Android/tree/main/Push_Notifications)
+ Implementation of push notifications in an Android application using Firebase Cloud Messaging.
+
+
+
 ## Contributing
 
 If you'd like to contribute, follow the guidelines in the respective branch's README file. Contributions, bug reports, and feature requests are welcome!
